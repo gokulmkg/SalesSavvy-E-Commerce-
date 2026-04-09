@@ -33,3 +33,19 @@ Users can browse products based on categories, view product details, add items t
 
 🔐 Login Page
 ![Login Page](ScreenShorts/loginpage.png)
+
+Regitration Page 
+![Registration Page](ScreenShorts/Regpage.png)
+
+Home Page
+![Home Page](ScreenShorts/HomePage.png)
+
+Cart Page
+![Cart Page](ScreenShorts/CartPage.png)
+
+ Payment Page
+![Payment Page](ScreenShorts/Payments.png)
+
+Payment Confirmation
+![Payment Confirmation](ScreenShorts/payment2.png)
+
