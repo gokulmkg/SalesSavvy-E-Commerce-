@@ -49,3 +49,16 @@ Cart Page
 Payment Confirmation
 ![Payment Confirmation](ScreenShorts/payment2.png)
 
+📈 Future Enhancements / Admin Panel
+
+🛒 Admin can add, update, or remove products  
+📊 Admin can view daily, monthly, and yearly sales reports  
+📦 Admin can track all orders and their status  
+👥 Admin can manage user accounts and registrations  
+🔔 Admin can get notifications for new orders or low stock 
+
+
+## 🤝 Let’s Connect to Build More!
+**Gokul M**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gokul-m-a92b64288) | ✉️ [Email](mgokulmkg2003@gmail.com)
+
