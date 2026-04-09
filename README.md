@@ -45,7 +45,7 @@ Cart Page
 
  📧 Email Notification (User Registration)
 
-![Notification Mail](screenshots/notification-mail.png)
+![Notification Mail](screenshots/Screenshot 2026-04-09 201000.png)
 
  Payment Page
 ![Payment Page](ScreenShorts/Payments.png)
