@@ -43,10 +43,6 @@ Home Page
 Cart Page
 ![Cart Page](ScreenShorts/CartPage.png)
 
- 📧 Email Notification (User Registration)
-
-![Notification Mail](screenshots/Screenshot 2026-04-09 201000.png)
-
  Payment Page
 ![Payment Page](ScreenShorts/Payments.png)
 
