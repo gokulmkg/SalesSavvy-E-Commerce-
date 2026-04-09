@@ -60,5 +60,5 @@ Payment Confirmation
 
 ## 🤝 Let’s Connect to Build More!
 **Gokul M**  
-🔗 [LinkedIn](https://www.linkedin.com/in/gokul-m-a92b64288) | ✉️ [Email](mgokulmkg2003@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/gokul-m-a92b64288) | ✉️[Email](mailto:mgokulmkg2003@gmail.com)
 
