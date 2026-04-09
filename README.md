@@ -43,6 +43,9 @@ Home Page
 Cart Page
 ![Cart Page](ScreenShorts/CartPage.png)
 
+Notification Mail 
+![Notification](Screenshot 2026-04-09 201000.png)
+
  Payment Page
 ![Payment Page](ScreenShorts/Payments.png)
 
