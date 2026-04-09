@@ -43,9 +43,9 @@ Home Page
 Cart Page
 ![Cart Page](ScreenShorts/CartPage.png)
 
- 📧 Notification Mail
+ 📧 Email Notification (User Registration)
 
-![Notification](images/notification-mail.png)
+![Notification Mail](screenshots/notification-mail.png)
 
  Payment Page
 ![Payment Page](ScreenShorts/Payments.png)
